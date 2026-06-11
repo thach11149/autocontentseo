@@ -128,7 +128,7 @@ File naming: `[số]-[slug].html`
 | 37 | công ty diệt côn trùng TPHCM | ✅ Đã xong |
 | 38 | dịch vụ diệt côn trùng quận 1 | ✅ Đã xong |
 | 39 | dịch vụ diệt côn trùng Bình Dương | ✅ Đã xong |
-| 40 | diệt côn trùng Đồng Nai | ⬜ Chưa viết |
+| 40 | diệt côn trùng Đồng Nai | ✅ Đã xong |
 | 41 | công ty pest control uy tín TPHCM | ⬜ Chưa viết |
 | 42 | diệt côn trùng giá rẻ TPHCM | ⬜ Chưa viết |
 | 43 | côn trùng gây hại là gì | ⬜ Chưa viết |
