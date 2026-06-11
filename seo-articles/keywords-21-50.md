@@ -130,7 +130,7 @@ File naming: `[số]-[slug].html`
 | 39 | dịch vụ diệt côn trùng Bình Dương | ✅ Đã xong |
 | 40 | diệt côn trùng Đồng Nai | ✅ Đã xong |
 | 41 | công ty pest control uy tín TPHCM | ✅ Đã xong |
-| 42 | diệt côn trùng giá rẻ TPHCM | ⬜ Chưa viết |
+| 42 | diệt côn trùng giá rẻ TPHCM | ✅ Đã xong |
 | 43 | côn trùng gây hại là gì | ⬜ Chưa viết |
 | 44 | cách nhận biết nhà bị mối | ⬜ Chưa viết |
 | 45 | tác hại của gián trong nhà hàng | ⬜ Chưa viết |
