@@ -111,7 +111,7 @@ File naming: `[số]-[slug].html`
 |---|---------|-----------|
 | 21 | diệt muỗi tại nhà TPHCM | ✅ Đã xong |
 | 22 | diệt ruồi | ✅ Đã xong |
-| 23 | diệt kiến | ⬜ Chưa viết |
+| 23 | diệt kiến | ✅ Đã xong |
 | 24 | phòng chống muỗi cho resort | ⬜ Chưa viết |
 | 25 | dịch vụ diệt côn trùng nhà hàng | ⬜ Chưa viết |
 | 26 | kiểm soát côn trùng F&B | ⬜ Chưa viết |
