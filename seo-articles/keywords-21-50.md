@@ -122,7 +122,7 @@ File naming: `[số]-[slug].html`
 | 31 | dịch vụ diệt côn trùng nhà máy | ✅ Đã xong |
 | 32 | kiểm soát côn trùng kho xưởng | ✅ Đã xong |
 | 33 | pest control cho sản xuất | ✅ Đã xong |
-| 34 | diệt côn trùng theo tiêu chuẩn BRC | ⬜ Chưa viết |
+| 34 | diệt côn trùng theo tiêu chuẩn BRC | ✅ Đã xong |
 | 35 | FSSC 22000 pest control | ⬜ Chưa viết |
 | 36 | hợp đồng diệt côn trùng định kỳ | ⬜ Chưa viết |
 | 37 | công ty diệt côn trùng TPHCM | ⬜ Chưa viết |
