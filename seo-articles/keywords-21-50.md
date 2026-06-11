@@ -127,7 +127,7 @@ File naming: `[số]-[slug].html`
 | 36 | hợp đồng diệt côn trùng định kỳ | ✅ Đã xong |
 | 37 | công ty diệt côn trùng TPHCM | ✅ Đã xong |
 | 38 | dịch vụ diệt côn trùng quận 1 | ✅ Đã xong |
-| 39 | dịch vụ diệt côn trùng Bình Dương | ⬜ Chưa viết |
+| 39 | dịch vụ diệt côn trùng Bình Dương | ✅ Đã xong |
 | 40 | diệt côn trùng Đồng Nai | ⬜ Chưa viết |
 | 41 | công ty pest control uy tín TPHCM | ⬜ Chưa viết |
 | 42 | diệt côn trùng giá rẻ TPHCM | ⬜ Chưa viết |
