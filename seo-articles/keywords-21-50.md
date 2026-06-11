@@ -136,6 +136,6 @@ File naming: `[số]-[slug].html`
 | 45 | tác hại của gián trong nhà hàng | ✅ Đã xong |
 | 46 | bảng giá diệt côn trùng | ✅ Đã xong |
 | 47 | dịch vụ diệt côn trùng uy tín | ✅ Đã xong |
-| 48 | quy trình diệt côn trùng chuyên nghiệp | ⬜ Chưa viết |
+| 48 | quy trình diệt côn trùng chuyên nghiệp | ✅ Đã xong |
 | 49 | chứng chỉ pest control | ⬜ Chưa viết |
 | 50 | báo giá diệt côn trùng miễn phí | ⬜ Chưa viết |
