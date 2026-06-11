@@ -126,7 +126,7 @@ File naming: `[số]-[slug].html`
 | 35 | FSSC 22000 pest control | ✅ Đã xong |
 | 36 | hợp đồng diệt côn trùng định kỳ | ✅ Đã xong |
 | 37 | công ty diệt côn trùng TPHCM | ✅ Đã xong |
-| 38 | dịch vụ diệt côn trùng quận 1 | ⬜ Chưa viết |
+| 38 | dịch vụ diệt côn trùng quận 1 | ✅ Đã xong |
 | 39 | dịch vụ diệt côn trùng Bình Dương | ⬜ Chưa viết |
 | 40 | diệt côn trùng Đồng Nai | ⬜ Chưa viết |
 | 41 | công ty pest control uy tín TPHCM | ⬜ Chưa viết |
