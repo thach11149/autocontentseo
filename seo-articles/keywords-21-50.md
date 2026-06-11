@@ -121,7 +121,7 @@ File naming: `[số]-[slug].html`
 | 30 | công ty pest control cho F&B | ✅ Đã xong |
 | 31 | dịch vụ diệt côn trùng nhà máy | ✅ Đã xong |
 | 32 | kiểm soát côn trùng kho xưởng | ✅ Đã xong |
-| 33 | pest control cho sản xuất | ⬜ Chưa viết |
+| 33 | pest control cho sản xuất | ✅ Đã xong |
 | 34 | diệt côn trùng theo tiêu chuẩn BRC | ⬜ Chưa viết |
 | 35 | FSSC 22000 pest control | ⬜ Chưa viết |
 | 36 | hợp đồng diệt côn trùng định kỳ | ⬜ Chưa viết |
