@@ -124,7 +124,7 @@ File naming: `[số]-[slug].html`
 | 33 | pest control cho sản xuất | ✅ Đã xong |
 | 34 | diệt côn trùng theo tiêu chuẩn BRC | ✅ Đã xong |
 | 35 | FSSC 22000 pest control | ✅ Đã xong |
-| 36 | hợp đồng diệt côn trùng định kỳ | ⬜ Chưa viết |
+| 36 | hợp đồng diệt côn trùng định kỳ | ✅ Đã xong |
 | 37 | công ty diệt côn trùng TPHCM | ⬜ Chưa viết |
 | 38 | dịch vụ diệt côn trùng quận 1 | ⬜ Chưa viết |
 | 39 | dịch vụ diệt côn trùng Bình Dương | ⬜ Chưa viết |
