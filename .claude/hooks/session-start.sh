@@ -7,28 +7,31 @@ if [ "${CLAUDE_CODE_REMOTE:-}" != "true" ]; then
 fi
 
 # === CẤU HÌNH ===
-# Điền GitHub repo URL của bạn vào đây sau khi push lên GitHub
-REPO_URL="https://github.com/thach11149/autocontentseo.git"
+GITHUB_USER="thach11149"
+REPO_NAME="autocontentseo"
+TOKEN="${GITHUB_TOKEN:-}"
 WORK_DIR="/home/user"
 
-# === KIỂM TRA PLACEHOLDER ===
-if [[ "$REPO_URL" == *"GITHUB_USERNAME"* ]]; then
-  echo "[session-start] REPO_URL chưa được cấu hình. Bỏ qua bước clone/pull."
-  exit 0
+# Xây URL có token nếu có, không thì dùng public URL
+if [ -n "$TOKEN" ]; then
+  REPO_URL="https://${GITHUB_USER}:${TOKEN}@github.com/${GITHUB_USER}/${REPO_NAME}.git"
+else
+  REPO_URL="https://github.com/${GITHUB_USER}/${REPO_NAME}.git"
 fi
 
 # === CLONE hoặc PULL ===
 if [ ! -d "$WORK_DIR/.git" ]; then
   echo "[session-start] Clone repo lần đầu..."
   git clone "$REPO_URL" /tmp/seo-repo
-  # Copy toàn bộ nội dung (trừ .git) vào WORK_DIR
   cp -r /tmp/seo-repo/. "$WORK_DIR/"
   rm -rf /tmp/seo-repo
   echo "[session-start] Clone hoàn tất."
 else
   echo "[session-start] Repo đã có, pulling latest..."
   cd "$WORK_DIR"
-  git pull origin main 2>/dev/null || git pull origin master 2>/dev/null || echo "[session-start] Pull thất bại, dùng bản hiện có."
+  # Cập nhật remote với token mới nhất
+  git remote set-url origin "$REPO_URL" 2>/dev/null || true
+  git pull origin master 2>/dev/null || git pull origin main 2>/dev/null || echo "[session-start] Pull thất bại, dùng bản hiện có."
   echo "[session-start] Pull hoàn tất."
 fi
 
