@@ -120,7 +120,7 @@ File naming: `[số]-[slug].html`
 | 29 | diệt côn trùng quán cà phê | ✅ Đã xong |
 | 30 | công ty pest control cho F&B | ✅ Đã xong |
 | 31 | dịch vụ diệt côn trùng nhà máy | ✅ Đã xong |
-| 32 | kiểm soát côn trùng kho xưởng | ⬜ Chưa viết |
+| 32 | kiểm soát côn trùng kho xưởng | ✅ Đã xong |
 | 33 | pest control cho sản xuất | ⬜ Chưa viết |
 | 34 | diệt côn trùng theo tiêu chuẩn BRC | ⬜ Chưa viết |
 | 35 | FSSC 22000 pest control | ⬜ Chưa viết |
