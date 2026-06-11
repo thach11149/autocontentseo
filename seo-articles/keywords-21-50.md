@@ -115,7 +115,7 @@ File naming: `[số]-[slug].html`
 | 24 | phòng chống muỗi cho resort | ✅ Đã xong |
 | 25 | dịch vụ diệt côn trùng nhà hàng | ✅ Đã xong |
 | 26 | kiểm soát côn trùng F&B | ✅ Đã xong |
-| 27 | diệt côn trùng bếp công nghiệp | ⬜ Chưa viết |
+| 27 | diệt côn trùng bếp công nghiệp | ✅ Đã xong |
 | 28 | pest control HACCP | ⬜ Chưa viết |
 | 29 | diệt côn trùng quán cà phê | ⬜ Chưa viết |
 | 30 | công ty pest control cho F&B | ⬜ Chưa viết |
