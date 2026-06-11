@@ -6,10 +6,15 @@
 - **WebFetch 403**: bỏ qua URL đó, thử URL tiếp theo trong search results, nếu tất cả fail thì dùng data từ WebSearch để viết — không dừng lại hỏi
 - **Thiếu thông tin thực tế** (số liệu, chứng chỉ, giá cả của Sao Việt Pest): dùng `<span class="missing-data">...</span>` màu đỏ — không dừng hỏi
 - **Output mỗi bài**: lưu file HTML vào `/home/user/seo-articles/` với tên `[số thứ tự]-[slug].html`
-- **Sau mỗi bài**: git add + commit + push file HTML vừa tạo, thông báo "✓ Xong bài [N] — [từ khóa]" rồi chuyển ngay sang bài tiếp theo
+- **Sau mỗi bài** (theo thứ tự):
+  1. Cập nhật `keywords-21-50.md`: đổi `⬜ Chưa viết` → `✅ Đã xong` cho bài vừa hoàn thành
+  2. `git add seo-articles/[file].html seo-articles/keywords-21-50.md`
+  3. `git commit --no-gpg-sign -m "bai [N]: [từ khóa]"`
+  4. `git push origin master`
+  5. Thông báo "✓ Xong bài [N] — [từ khóa]" rồi chuyển ngay sang bài tiếp theo
 - **Git push**: dùng `git push origin master` — token đã có trong remote URL, không cần hỏi
+- **Khi bắt đầu routine**: đọc `keywords-21-50.md`, tìm dòng đầu tiên có `⬜ Chưa viết` → bắt đầu từ bài đó, bỏ qua toàn bộ bài đã có `✅ Đã xong`
 - **Danh sách từ khóa**: đọc từ `/home/user/seo-articles/keywords-21-50.md`
-- **Sau khi hết tất cả**: cập nhật trạng thái ✅ trong `keywords-21-50.md`, commit + push file đó luôn
 
 ---
 
