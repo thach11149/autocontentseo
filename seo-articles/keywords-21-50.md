@@ -1,4 +1,4 @@
-# Danh Sách Từ Khóa 21–50 — Sao Việt Pest
+# Danh Sách Từ Khóa 21–50 — SVP
 
 Output folder: `/home/user/seo-articles/`
 File naming: `[số]-[slug].html`
