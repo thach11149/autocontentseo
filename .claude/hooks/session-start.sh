@@ -8,7 +8,7 @@ fi
 
 # === CẤU HÌNH ===
 # Điền GitHub repo URL của bạn vào đây sau khi push lên GitHub
-REPO_URL="https://github.com/GITHUB_USERNAME/REPO_NAME.git"
+REPO_URL="https://github.com/thach11149/autocontentseo.git"
 WORK_DIR="/home/user"
 
 # === KIỂM TRA PLACEHOLDER ===
