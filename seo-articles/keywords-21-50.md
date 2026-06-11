@@ -138,4 +138,4 @@ File naming: `[số]-[slug].html`
 | 47 | dịch vụ diệt côn trùng uy tín | ✅ Đã xong |
 | 48 | quy trình diệt côn trùng chuyên nghiệp | ✅ Đã xong |
 | 49 | chứng chỉ pest control | ✅ Đã xong |
-| 50 | báo giá diệt côn trùng miễn phí | ⬜ Chưa viết |
+| 50 | báo giá diệt côn trùng miễn phí | ✅ Đã xong |
