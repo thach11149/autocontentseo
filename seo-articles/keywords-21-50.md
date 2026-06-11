@@ -133,7 +133,7 @@ File naming: `[số]-[slug].html`
 | 42 | diệt côn trùng giá rẻ TPHCM | ✅ Đã xong |
 | 43 | côn trùng gây hại là gì | ✅ Đã xong |
 | 44 | cách nhận biết nhà bị mối | ✅ Đã xong |
-| 45 | tác hại của gián trong nhà hàng | ⬜ Chưa viết |
+| 45 | tác hại của gián trong nhà hàng | ✅ Đã xong |
 | 46 | bảng giá diệt côn trùng | ⬜ Chưa viết |
 | 47 | dịch vụ diệt côn trùng uy tín | ⬜ Chưa viết |
 | 48 | quy trình diệt côn trùng chuyên nghiệp | ⬜ Chưa viết |
